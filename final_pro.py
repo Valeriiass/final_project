@@ -79,7 +79,7 @@ st.write("""
 ### The 'bubble-ranking' which have TripAdvisor contains of 272 features.
 To predict 'buble-ranking' or exactly price of the room in a hotel in Rome
 have to included around 40 to get the great output.
-If you would like to try my model go there ->PAGE
+If you would like to try my model go there ->https://github.com/Valeriiass/final_project/blob/main/ORIGINAL_final.ipynb
 """)
 
 
